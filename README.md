@@ -14,11 +14,12 @@ Security:      Penetration testing, network analysis, infrastructure hardening
 AI Tooling:    Claude Code skills/plugins, MCP servers
 ```
 
-### Open source
+### Projects
 
 - **[screenshot-skill](https://github.com/TCyberChef/screenshot-skill)** - give Claude Code eyes on macOS. Smart capture, analysis, annotations.
 - **[mcp-image-generator](https://github.com/TCyberChef/mcp-image-generator)** - MCP server for generating images with Hugging Face models
 - **[israel-housing-finder](https://github.com/TCyberChef/israel-housing-finder)** - apartment search with interactive filters
+- **StreamAlchemy** - video streaming platform with RTSP encoding, monitoring, and management
 
 ### Interests
 
